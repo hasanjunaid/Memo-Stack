@@ -53,6 +53,8 @@ Before you begin, ensure you have met the following requirements:
 
 You can access the deployed version of Memo Stack at https://thunderous-conkies-ab667f.netlify.app/
 
+### About Memo Stack
+
 - Start the app:
 
 ![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/0f2f135f-c5fc-4a65-8030-46ccb54c37ef)
