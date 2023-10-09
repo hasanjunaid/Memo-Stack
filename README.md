@@ -51,7 +51,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Deployed Version
 
-You can access the deployed version of Memo Stack at https://thunderous-conkies-ab667f.netlify.app/
+You can access the deployed version of Memo Stack at https://memostack.netlify.app/
 
 ### About Memo Stack
 
