@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 2. Change directory to the project folder:
 
    ```shell
-   cd your-repo-name
+   cd memo-stack
    
 3. Install the required dependencies:
 
