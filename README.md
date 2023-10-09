@@ -51,19 +51,19 @@ Before you begin, ensure you have met the following requirements:
 
 - Start the app:
 
-![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/f90ecde5-f39c-400a-822f-e46fa23f8998)
+![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/0f2f135f-c5fc-4a65-8030-46ccb54c37ef)
 
 - Create a new note:
 
-![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/1ea6565c-b331-470a-a604-4342c0755caa)
+![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/e4125d11-c38f-4f9d-89db-fc8ad57d2ae6)
 
 - Write your first note:
 
-![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/1ac3df04-e42b-4a7c-aba6-972bfb2e78ee)
+![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/815976e4-7f74-45ca-be43-f0853527efe7)
 
 - Preview your note:
 
-![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/a2b5f89f-20bf-408d-b9b4-e971d7c32495)
+![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/eeee1ff7-68ab-439c-acb4-b82430a588d8)
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
