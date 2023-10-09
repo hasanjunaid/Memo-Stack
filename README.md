@@ -49,6 +49,10 @@ Before you begin, ensure you have met the following requirements:
    
 2. Open your browser and go to `http://localhost:3000` to use the app.
 
+### Deployed Version
+
+You can access the deployed version of Memo Stack at https://thunderous-conkies-ab667f.netlify.app/
+
 - Start the app:
 
 ![image](https://github.com/hasanjunaid/Memo-Stack/assets/84090090/0f2f135f-c5fc-4a65-8030-46ccb54c37ef)
